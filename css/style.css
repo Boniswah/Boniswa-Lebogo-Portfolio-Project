@@ -154,7 +154,7 @@ color: var(--branding-color);
         padding: 80px 20px;
     }
 
-    .content{
+    .content {
         text-align: center;
         padding: 0;
     }
@@ -162,9 +162,5 @@ color: var(--branding-color);
     .project-desciption {
         padding: 0;
         text-align: center;
-    }
-
-    nav a {
-        font-size: 12px;
     }
 }
